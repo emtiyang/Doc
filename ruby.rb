@@ -5,7 +5,7 @@ hello ruby
 小鱼哥竟然不信？
 =end
 
-#cls清屏
+#cls清屏,只在win下有用？
 def cls
 system ("cls")
 end
